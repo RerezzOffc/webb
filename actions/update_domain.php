@@ -25,6 +25,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 ?>
 
 <form method="POST" action="">
-    <input type="text" name="domain_custom" placeholder="Masukkan Domain Custom" required><br>
+    <input type="text" name="my-website-ku.digital-server.biz.id" placeholder="Masukkan Domain Custom" required><br>
     <button type="submit">Perbarui</button>
 </form>
